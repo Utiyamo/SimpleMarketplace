@@ -1,0 +1,6 @@
+@DC.SimpleMarketplace.WebAPI_HostAddress = http://localhost:5007
+
+GET {{DC.SimpleMarketplace.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
